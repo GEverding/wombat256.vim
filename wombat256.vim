@@ -1,10 +1,13 @@
 " Vim color file
-" Maintainer:   David Liang (bmdavll at gmail dot com)
-" Last Change:  November 28 2008
+" Maintainer:   Garrett Everding
+" Last Change:  March 8, 2014
 "
-" wombat256.vim - a modified version of Wombat by Lars Nielsen that also
-" works on xterms with 88 or 256 colors. The algorithm for approximating the
-" GUI colors with the xterm palette is from desert256.vim by Henry So Jr.
+"
+" wombat256.vim - a modified version of Wombat by Lars Nielsen and later
+" David Liange that also works on xterms with 88 or 256 colors. The 
+" algorithm for approximating the GUI colors with the xterm palette is from 
+" desert256.vim by Henry So Jr.  
+" 
 
 set background=dark
 
